@@ -489,3 +489,50 @@
 [05:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge has made the advancement [A Strange Grave's Dust]
 [05:31:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
 [05:31:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:33:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:35:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:36:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge has made the advancement [I Think My Books Are Overdue]
+[05:36:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:37:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:37:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:37:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:37:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC hit the ground too hard
+[05:37:14] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-527, y:80, z:-102] in the dimension 0
+[05:37:14] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[05:37:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC lost connection: Disconnected
+[05:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC left the game
+[05:37:18] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player JoGaRC
+[05:38:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[05:39:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KingOfRevenge lost connection: Disconnected
+[05:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge left the game
+[05:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:40:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:40:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:40:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:40:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:40:07] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:40:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:40:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:40:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
