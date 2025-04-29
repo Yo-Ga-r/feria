@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-29 06:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-29 06:30:35 +0000"
@@ -1451,6 +1457,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2025-04-29 06:41:50 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-29 05:24:07 +0000"
@@ -1466,6 +1478,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_the_recipe": "2025-04-29 06:30:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 06:39:20 +0000"
     },
     "done": true
   },
@@ -1886,6 +1904,7 @@
       "plains": "2025-04-29 05:25:10 +0000",
       "taiga": "2025-04-29 05:36:21 +0000",
       "taiga_hills": "2025-04-29 06:36:39 +0000",
+      "ocean": "2025-04-29 06:46:27 +0000",
       "extreme_hills": "2025-04-29 05:33:35 +0000",
       "river": "2025-04-29 05:33:21 +0000",
       "stone_beach": "2025-04-29 05:33:26 +0000"
@@ -4279,6 +4298,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
     "criteria": {
       "has_the_recipe": "2025-04-29 06:30:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 06:38:50 +0000"
     },
     "done": true
   },
