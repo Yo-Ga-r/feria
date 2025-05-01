@@ -1443,3 +1443,52 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
+[08:14:53] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player b58e280e-e398-3be0-a857-c406eeb2b9e6 to (49.955959976760575, 68.4, 353.643675484306)
+[08:15:02] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player b58e280e-e398-3be0-a857-c406eeb2b9e6 to (49.70681364285399, 69.0, 354.297836094784)
+[08:15:23] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player b58e280e-e398-3be0-a857-c406eeb2b9e6 to (49.955959976760575, 68.4, 353.643675484306)
+[08:15:51] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[08:15:51] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 65 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[08:15:51] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[08:15:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:15:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:49155] logged in with entity id 118804 at (57.74040458502679, 66.0, 293.4776935980796)
+[08:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[08:15:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:15:56] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[08:15:56] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[08:15:56] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[08:15:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:15:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/118804, l='world', x=57.74, y=66.00, z=293.48] connected. Sending ping
+[08:15:56] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[08:15:56] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[08:16:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Disconnected
+[08:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[08:16:57] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.fo
+[08:19:25] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[08:19:25] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 65 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[08:19:25] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[08:19:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:19:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:59691] logged in with entity id 123594 at (57.74040458502679, 66.0, 293.4776935980796)
+[08:19:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[08:19:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:19:30] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[08:19:30] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[08:19:30] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[08:19:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:19:30] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/123594, l='world', x=57.74, y=66.00, z=293.48] connected. Sending ping
+[08:19:30] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[08:19:30] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[08:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Spectator Mode]
+[08:21:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:22:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:22:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Who Lives Here?]
+[08:23:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Teleported JoGaRC to SSaurus]
+[08:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Who Lives Here?]
+[08:23:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:24:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [You'll Regret That]
+[08:24:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Stone Age]
+[08:24:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
