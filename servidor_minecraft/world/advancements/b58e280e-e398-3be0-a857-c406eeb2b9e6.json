@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-01 08:55:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -1016,6 +1022,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-05-01 08:12:19 +0000",
+      "zombie": "2025-05-01 08:55:09 +0000",
       "spider": "2025-05-01 08:12:13 +0000"
     },
     "done": false
@@ -1461,6 +1468,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-05-01 09:00:27 +0000"
     },
     "done": true
   },
@@ -2763,6 +2776,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 08:55:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/smooth_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -3279,6 +3298,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:55:41 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/building_blocks/angelic_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -3402,6 +3427,12 @@
   "wolfarmor:recipes/combat/diamond_wolf_armor": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:55:33 +0000"
     },
     "done": true
   },
@@ -4065,6 +4096,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -4326,6 +4363,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:55:41 +0000"
     },
     "done": true
   },

@@ -1,7 +1,25 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-01 08:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-01 08:58:30 +0000"
+    },
+    "done": true
+  },
   "inventorypets:inventorypets/root": {
     "criteria": {
       "auto": "2025-05-01 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-05-01 08:58:30 +0000"
     },
     "done": true
   },
@@ -170,6 +188,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-05-01 08:58:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2025-05-01 08:09:57 +0000"
@@ -191,6 +215,18 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2025-05-01 08:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-01 08:58:31 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-05-01 09:00:01 +0000"
     },
     "done": true
   },
@@ -247,6 +283,12 @@
       "entered_water": "2025-05-01 08:09:57 +0000"
     },
     "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-05-01 08:58:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
@@ -316,7 +358,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2025-05-01 08:31:45 +0000"
+      "skeleton": "2025-05-01 08:31:45 +0000",
+      "spider": "2025-05-01 08:58:30 +0000"
     },
     "done": false
   },
@@ -340,6 +383,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "spider_eye": "2025-05-01 08:58:34 +0000",
       "rotten_flesh": "2025-05-01 08:34:43 +0000",
       "golden_carrot": "2025-05-01 08:39:55 +0000"
     },
@@ -354,6 +398,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-01 08:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-01 08:58:30 +0000"
     },
     "done": true
   },
