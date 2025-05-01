@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:12:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "fire_sword": "2025-05-01 08:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -689,6 +701,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:12:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -745,13 +763,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-01 07:56:07 +0000",
       "shrubland": "2025-05-01 07:40:57 +0000",
       "steppe": "2025-05-01 07:12:07 +0000",
+      "bayou": "2025-05-01 07:58:01 +0000",
       "coniferous_forest": "2025-04-29 17:00:37 +0000",
+      "outback": "2025-05-01 08:02:28 +0000",
       "redwood_forest": "2025-05-01 07:41:45 +0000",
+      "pasture": "2025-05-01 07:58:41 +0000",
       "lush_swamp": "2025-04-29 16:58:56 +0000",
+      "prairie": "2025-05-01 07:58:16 +0000",
       "grove": "2025-04-29 16:59:41 +0000",
-      "gravel_beach": "2025-05-01 07:43:22 +0000"
+      "gravel_beach": "2025-05-01 07:43:22 +0000",
+      "lavender_fields": "2025-05-01 07:59:14 +0000"
     },
     "done": false
   },
@@ -983,6 +1007,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2025-05-01 08:12:19 +0000",
+      "spider": "2025-05-01 08:12:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -1094,6 +1125,12 @@
   "aether_legacy:recipes/building_blocks/aerogel_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-01 08:11:17 +0000"
     },
     "done": true
   },
@@ -1775,6 +1812,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "spider": "2025-05-01 08:12:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -1850,12 +1893,22 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-01 07:51:47 +0000",
+      "swampland": "2025-05-01 07:57:11 +0000",
+      "desert_hills": "2025-05-01 07:56:33 +0000",
       "plains": "2025-05-01 07:12:16 +0000",
+      "savanna": "2025-05-01 07:56:05 +0000",
       "taiga": "2025-04-29 17:01:41 +0000",
       "ocean": "2025-05-01 07:43:18 +0000",
-      "river": "2025-04-29 17:00:49 +0000"
+      "river": "2025-04-29 17:00:49 +0000",
+      "desert": "2025-05-01 07:56:32 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-01 08:02:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -2160,6 +2213,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 08:12:19 +0000"
     },
     "done": true
   },
@@ -3006,6 +3065,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-01 08:10:09 +0000"
     },
     "done": true
   },

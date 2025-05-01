@@ -1069,3 +1069,377 @@ Iron Backpacks: Requires version 1.12.2-3.0.8-12 but mod is not found on client.
 [07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d17f41ae-cdd7-40dc-a01f-5e96245b133b owned by null
 [07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 25999c75-8c0b-4808-910f-12cabf455876 owned by null
 [07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahze with UUID 965513b0-268f-454f-9ffd-c523e698b4fb owned by null
+[07:55:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Spectator Mode]
+[07:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[07:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Spectator Mode]
+[07:56:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[07:56:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID a52eaf8d-6504-4e1a-80f5-75eeaafc524c owned by null
+[07:56:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 32af50f5-408f-4336-9b88-0a10f0031f5a owned by null
+[07:56:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 83f3fcbe-7cf1-45e3-aaf2-12d80250afe6 owned by null
+[07:56:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoblo with UUID 11e62cf0-6e0e-4d6b-95a5-bbdf358d0ee7 owned by null
+[07:56:29] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-191, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-191, -57] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-183, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-183, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-183, -60] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-182, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-182, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -61] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-181, -58] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-181, -59] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -62] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-183, -61] in dimension 0 (overworld) while populating chunk [-190, -53], causing cascading worldgen lag.
+[07:56:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:56:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -10.87394573415395,1.7941805340143873,-1.8167932104026931
+[07:56:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a5399899-a26a-4180-a6be-2c4a7f36376e owned by null
+[07:56:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID fcfdcf03-73a8-4b9e-8636-d965697e6904 owned by null
+[07:56:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 25561586-0808-46ae-b62c-317b07f21341 owned by null
+[07:56:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nev with UUID 809fb3d0-11d6-4ac0-8698-07f4dfbf044a owned by null
+[07:56:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID a52eaf8d-6504-4e1a-80f5-75eeaafc524c owned by null
+[07:56:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 32af50f5-408f-4336-9b88-0a10f0031f5a owned by null
+[07:56:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 83f3fcbe-7cf1-45e3-aaf2-12d80250afe6 owned by null
+[07:56:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoblo with UUID 11e62cf0-6e0e-4d6b-95a5-bbdf358d0ee7 owned by null
+[07:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 6c46a2a1-7d6e-4ff9-9900-e8d16f9ed2b7 owned by null
+[07:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 6d621de7-05fc-4fcb-8c70-558574754988 owned by null
+[07:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoblo with UUID ec6d7224-6de0-481a-9a2e-3d1d4949c13b owned by null
+[07:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kakla with UUID 6aceb457-698d-4783-9d5d-b3c700e7ce19 owned by null
+[07:57:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -3.04566970095766,3.3028347952812567,-9.290559982277728
+[07:57:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoggi with UUID 25b6a77f-ffa5-40a6-ad13-07eda750925c owned by null
+[07:57:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID f0c0923b-5519-41a9-960c-846ef9046f2f owned by null
+[07:57:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 73cf589a-06ec-4e45-bb68-874652041646 owned by null
+[07:57:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID ed3dc072-cdb3-4ac6-ab64-b16d3311af18 owned by null
+[07:57:49] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-149, -81] in dimension 0 (overworld) while populating chunk [-149, -80], causing cascading worldgen lag.
+[07:57:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:07] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-163, -90] in dimension 0 (overworld) while populating chunk [-162, -89], causing cascading worldgen lag.
+[07:58:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:07] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-164, -90] in dimension 0 (overworld) while populating chunk [-162, -89], causing cascading worldgen lag.
+[07:58:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:07] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-163, -91] in dimension 0 (overworld) while populating chunk [-162, -89], causing cascading worldgen lag.
+[07:58:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:07] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-164, -91] in dimension 0 (overworld) while populating chunk [-162, -89], causing cascading worldgen lag.
+[07:58:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:08] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-165, -91] in dimension 0 (overworld) while populating chunk [-165, -90], causing cascading worldgen lag.
+[07:58:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 35ecbf35-5860-4dec-9f2d-668f15092ef7 owned by null
+[07:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 2896c569-68b6-4b47-bc07-f3cdb09f00b2 owned by null
+[07:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 01b6d5a5-f97f-44f3-8c1d-776a3d4f8ca4 owned by null
+[07:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 70d5532a-3406-48bf-ba08-0060f6d2fb11 owned by null
+[07:58:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -10.290543406177221,-1.5585908498621137,-3.1392617503508973
+[07:58:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2143ms behind, skipping 42 tick(s)
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-191, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-191, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-192, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-186, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-183, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -96] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -97] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -97] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -96] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -95] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-182, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -102] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-190, -101] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -97] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-189, -97] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -102] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-188, -102] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-187, -103] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-181, -99] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-184, -94] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-185, -94] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-191, -98] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:34] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-183, -100] in dimension 0 (overworld) while populating chunk [-184, -95], causing cascading worldgen lag.
+[07:58:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -9.499207401909189,-1.7511460803957561,2.8946361811210863
+[07:58:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 437c0cc7-738f-409d-9579-55d5e049063e owned by null
+[07:58:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID 4e481e89-1186-4507-b49f-c8fc59b38c19 owned by null
+[07:58:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nev with UUID 53245343-bd24-4555-843a-ea1fe9fc84f4 owned by null
+[07:58:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 5b2ea6bb-8c25-4866-b502-837dc6a677fd owned by null
+[07:58:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -8.414911631007726,1.3255856908230044,7.389675466318295
+[07:58:38] [Server thread/WARN] [FML]: Fapcraft loaded a new chunk [-188, -74] in dimension 0 (overworld) while populating chunk [-187, -73], causing cascading worldgen lag.
+[07:58:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ex
+[07:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[07:59:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -9.933516539977518,1.1023849543291675,-1.1598223164580759
+[07:59:16] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-197, -73] in dimension 0 (overworld) while populating chunk [-196, -72], causing cascading worldgen lag.
+[07:59:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:59:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -10.533472939225703,0.0,2.075032195082258
+[08:00:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID b1d185d1-2541-40f8-becc-eb85a4de3b34 owned by null
+[08:00:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoggi with UUID c8a81195-e1c3-495b-a12f-535b84d9b728 owned by null
+[08:00:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID 62a0d435-d51b-49c7-937e-3c937c5ec168 owned by null
+[08:00:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 38099c28-9cf4-4f50-89f4-3ce591700ded owned by null
+[08:01:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 9e3d0d77-0cd4-4acc-a11c-b35f42bdd189 owned by null
+[08:01:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 0ef630e0-ccf7-4360-80bf-913a2ce9ed78 owned by null
+[08:01:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b3e89ed0-30a1-4aa1-b773-4c4a0bcf66f3 owned by null
+[08:01:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 54478b1e-9ad9-44e6-96a9-11603c321321 owned by null
+[08:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [A Flaming Sword]
+[08:01:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:02:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 7d97f105-5238-49b7-ae1e-f6a29c67ff5e owned by null
+[08:02:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b4a84c5-e084-4604-8554-a7e47a6518e2 owned by null
+[08:02:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snuppu with UUID 577d244e-92ed-40b9-865f-80e2dbe6e91a owned by null
+[08:02:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 80365a8d-a2a5-4e58-8b19-fc84e36087ca owned by null
+[08:02:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [The Twelve Labors of Hercules]
+[08:02:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:04:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID b1d185d1-2541-40f8-becc-eb85a4de3b34 owned by null
+[08:04:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoggi with UUID c8a81195-e1c3-495b-a12f-535b84d9b728 owned by null
+[08:04:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID 62a0d435-d51b-49c7-937e-3c937c5ec168 owned by null
+[08:04:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 38099c28-9cf4-4f50-89f4-3ce591700ded owned by null
+[08:04:05] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[08:04:05] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 65 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[08:04:05] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[08:04:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:04:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:46723] logged in with entity id 103759 at (128.5, 66.0, 320.5)
+[08:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[08:04:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:04:11] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[08:04:11] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[08:04:11] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[08:04:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:04:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/103759, l='world', x=128.50, y=66.00, z=320.50] connected. Sending ping
+[08:04:11] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[08:04:11] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[08:04:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Disconnected
+[08:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[08:04:50] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player b58e280e-e398-3be0-a857-c406eeb2b9e6 to (-3128.6998289776243, 68.0, -1157.0039305691903)
+[08:07:41] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player b58e280e-e398-3be0-a857-c406eeb2b9e6 to (-3135.4191269776366, 66.87999999523163, -1165.4218577323288)
+[08:08:26] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[08:08:26] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 65 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[08:08:26] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[08:08:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:08:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:58523] logged in with entity id 107178 at (125.62745022225742, 66.92159999847412, 325.55117099814754)
+[08:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[08:08:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:08:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/107178, l='world', x=125.63, y=66.92, z=325.55] connected. Sending ping
+[08:08:31] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[08:08:31] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Ice and Fire]
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus was blown up by Creeper
+[08:09:22] [Server thread/INFO] [tombstone]: The last known grave of SSaurus is at location [name:Last Grave, x:127, y:71, z:301] in the dimension 0
+[08:09:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Your First Grave]
+[08:09:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:22] [Server thread/INFO] [tombstone]: SSaurus has successfully been saved
+[08:09:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [The Most Useful Key]
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:09:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:10:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus was killed by Wizard using magic
+[08:10:24] [Server thread/INFO] [tombstone]: The last known grave of SSaurus is at location [name:Last Grave, x:47, y:67, z:299] in the dimension 0
+[08:10:24] [Server thread/INFO] [tombstone]: SSaurus has successfully been saved
+[08:10:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:10:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Teleported JoGaRC to SSaurus]
+[08:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [They Have a Cave Troll!]
+[08:11:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:11:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:12:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Disconnected
+[08:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[08:12:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Monster Hunter]
+[08:12:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Knowledge of Death]
+[08:12:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Ashes 'n Bones]
+[08:12:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has reached the goal [Bone Crusher]
+[08:12:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:13:26] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at com.trolmastercard.sexmod.ex.a(ex.java) ~[ex.class:1.1]
+	at com.trolmastercard.sexmod.ac$a.lambda$onMessage$0(ac$a.java) ~[ac$a.class:1.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.I18n
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_442]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_442]
+	at com.trolmastercard.sexmod.ex.a(ex.java) ~[ex.class:1.1]
+	at com.trolmastercard.sexmod.ac$a.lambda$onMessage$0(ac$a.java) ~[ac$a.class:1.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.NullPointerException
+[08:13:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at com.trolmastercard.sexmod.ex.a(ex.java) ~[ex.class:1.1]
+	at com.trolmastercard.sexmod.ac$a.lambda$onMessage$0(ac$a.java) ~[ac$a.class:1.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
