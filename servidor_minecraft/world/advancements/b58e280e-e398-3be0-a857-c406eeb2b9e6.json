@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-05-01 08:44:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-04-29 16:58:56 +0000"
@@ -1900,6 +1906,7 @@
     "criteria": {
       "forest": "2025-05-01 07:51:47 +0000",
       "swampland": "2025-05-01 07:57:11 +0000",
+      "birch_forest": "2025-05-01 08:40:12 +0000",
       "desert_hills": "2025-05-01 07:56:33 +0000",
       "plains": "2025-05-01 07:12:16 +0000",
       "savanna": "2025-05-01 07:56:05 +0000",
@@ -2737,6 +2744,12 @@
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-05-01 08:38:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

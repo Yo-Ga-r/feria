@@ -1561,3 +1561,17 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
 [08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
 [08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -1.8150619863595239,0.0,-10.26201297106931
+[08:38:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 65748bf0-dd4b-4b29-9db2-beace3a97063 owned by null
+[08:38:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID 1628d867-7975-4e25-b75c-f97bd964c0ee owned by null
+[08:38:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID f49bcbb6-e009-4456-a8a7-5fd4d02c3c25 owned by null
+[08:38:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID 8483ff26-9670-487b-8618-f1c677ae2dc3 owned by null
+[08:38:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! 5.831577937879047,-2.8061108613552506,8.1560613904457
+[08:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:40:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -3.716803427317757,8.160307663019353,-6.060822703556596
+[08:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:41:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:41:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [I Think My Books Are Overdue]
+[08:44:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
