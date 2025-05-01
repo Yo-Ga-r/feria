@@ -122,6 +122,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-05-01 08:54:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-05-01 08:08:31 +0000"

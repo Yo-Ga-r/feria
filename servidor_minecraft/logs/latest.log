@@ -1575,3 +1575,19 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [08:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [I Think My Books Are Overdue]
 [08:44:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
 [08:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Given    [Dark Steel Riot Shield] * 1 to JoGaRC]
+[08:46:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Given    [Dark Steel Riot Shield] * 1 to JoGaRC]
+[08:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Given    [Necromancer Sage Hat] * 1 to JoGaRC]
+[08:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Given    [Ring of Leeching] * 1 to JoGaRC]
+[08:46:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [A Forgotten Relic]
+[08:46:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:47:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Given    [Scroll of Written Expertise] * 1 to JoGaRC]
+[08:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Given    [Golden Helmet] * 1 to JoGaRC]
+[08:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:49:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Creative Mode]
+[08:50:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -7.591288401518284,-1.6088606451820056,-7.25670109299773
+[08:54:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! 3.184608018509948,1.889993275270939,-9.577921347709207
+[08:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Set own game mode to Survival Mode]
+[08:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [I Think My Books Are Overdue]
+[08:54:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus

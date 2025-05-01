@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_leeching": "2025-05-01 08:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -3134,6 +3140,12 @@
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
     },
     "done": true
+  },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_leeching": "2025-05-01 08:46:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
