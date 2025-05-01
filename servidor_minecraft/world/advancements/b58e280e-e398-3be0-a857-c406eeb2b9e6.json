@@ -1170,6 +1170,12 @@
     },
     "done": true
   },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-05-01 08:24:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -2969,6 +2975,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-01 08:24:41 +0000"
     },
     "done": true
   },

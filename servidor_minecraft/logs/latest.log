@@ -1492,3 +1492,72 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [08:24:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
 [08:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Stone Age]
 [08:24:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[08:25:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus hit the ground too hard
+[08:25:53] [Server thread/INFO] [tombstone]: The last known grave of SSaurus is at location [name:Last Grave, x:300, y:74, z:212] in the dimension 0
+[08:25:53] [Server thread/INFO] [tombstone]: SSaurus has successfully been saved
+[08:26:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Teleported SSaurus to JoGaRC]
+[08:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Knowledge of Death]
+[08:26:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has reached the goal [A Fast Comeback]
+[08:26:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:26:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:27:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Going Clubbing]
+[08:27:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:28:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:30:01] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [28, 11] in dimension 0 (overworld) while populating chunk [28, 12], causing cascading worldgen lag.
+[08:30:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:30:24] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [24, 1] in dimension 0 (overworld) while populating chunk [25, 2], causing cascading worldgen lag.
+[08:30:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus was shot by Skeleton
+[08:30:28] [Server thread/INFO] [tombstone]: The last known grave of SSaurus is at location [name:Last Grave, x:353, y:70, z:201] in the dimension 0
+[08:30:29] [Server thread/INFO] [tombstone]: SSaurus has successfully been saved
+[08:30:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[08:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has reached the goal [Here They Come]
+[08:31:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Monster Hunter]
+[08:31:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [A Strange Grave's Dust]
+[08:31:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:31:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:32:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:32:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:32:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:32:19] [Server thread/WARN] [FML]: Fapcraft loaded a new chunk [13, 0] in dimension 0 (overworld) while populating chunk [14, 1], causing cascading worldgen lag.
+[08:32:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:32:21] [Server thread/WARN] [FML]: Fapcraft loaded a new chunk [13, -1] in dimension 0 (overworld) while populating chunk [14, 0], causing cascading worldgen lag.
+[08:32:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:32:21] [Server thread/WARN] [FML]: Fapcraft loaded a new chunk [14, -1] in dimension 0 (overworld) while populating chunk [14, 0], causing cascading worldgen lag.
+[08:32:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:32:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 65748bf0-dd4b-4b29-9db2-beace3a97063 owned by null
+[08:32:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID 1628d867-7975-4e25-b75c-f97bd964c0ee owned by null
+[08:32:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID f49bcbb6-e009-4456-a8a7-5fd4d02c3c25 owned by null
+[08:32:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID 8483ff26-9670-487b-8618-f1c677ae2dc3 owned by null
+[08:32:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -5.487457755783453,4.863611978011093,-7.285943844651683
+[08:34:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! 8.88390694543051,4.02776955955062,-3.312277170661673
+[08:34:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[08:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
