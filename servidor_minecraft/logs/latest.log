@@ -841,3 +841,231 @@ Iron Backpacks: Requires version 1.12.2-3.0.8-12 but mod is not found on client.
 [07:32:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! 7.502288673401381,0.0,7.118965284434466
 [07:33:55] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
 [07:33:55] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[07:37:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID adc18b8a-6811-4533-91d7-56571d635cba owned by null
+[07:37:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID b866dbb0-ac26-40aa-926a-89f0334d996d owned by null
+[07:37:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID e7e4c8f4-2121-4d21-b2f1-21164ab16ae1 owned by null
+[07:37:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 0ecbec52-8dae-43ff-af5f-0c70cc3794c1 owned by null
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 37] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-148, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-148, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 37] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 37] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 38] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 39] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 38] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 38] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 39] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 39] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 37] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 40] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 40] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 40] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 38] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 37] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 38] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 38] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 39] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 34] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 34] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:24] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 34] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-146, 34] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-147, 34] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 40] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 37] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 36] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 39] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 39] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 33] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-143, 33] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-145, 33] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-144, 32] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 33] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 35] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-142, 34] in dimension 0 (overworld) while populating chunk [-148, 34], causing cascading worldgen lag.
+[07:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! 9.761104393566711,-2.1061347480157764,-0.6993074997826625
+[07:37:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2448ms behind, skipping 48 tick(s)
+[07:38:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID adc18b8a-6811-4533-91d7-56571d635cba owned by null
+[07:38:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID b866dbb0-ac26-40aa-926a-89f0334d996d owned by null
+[07:38:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID e7e4c8f4-2121-4d21-b2f1-21164ab16ae1 owned by null
+[07:38:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 0ecbec52-8dae-43ff-af5f-0c70cc3794c1 owned by null
+[07:38:10] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-149, 21] in dimension 0 (overworld) while populating chunk [-148, 22], causing cascading worldgen lag.
+[07:38:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:38:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID fd2785e0-8f0a-4024-b4bd-33b3f2c1b6e5 owned by null
+[07:38:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID c1d66ee9-e49a-4630-8feb-2fcb559ad953 owned by null
+[07:38:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nev with UUID c5cf8a09-6d53-4d31-a4ca-3301a88b32b3 owned by null
+[07:38:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 0354ccca-772b-4377-9ebc-53a10eecc377 owned by null
+[07:38:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved too quickly! -9.733412078505808,0.9619198378422453,-3.2678566465164067
+[07:38:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID c1cfe672-3029-4981-99c1-f68f8c9181fc owned by null
+[07:38:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Oblu with UUID 7963130a-dcac-4bea-8e03-77d6e1364ac1 owned by null
+[07:38:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 69a880b2-0621-40f7-8bde-975d2d5aa218 owned by null
+[07:38:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID fb71b5d0-fcc4-423e-8bf1-17c78054c7c3 owned by null
+[07:38:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID c1cfe672-3029-4981-99c1-f68f8c9181fc owned by null
+[07:38:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Oblu with UUID 7963130a-dcac-4bea-8e03-77d6e1364ac1 owned by null
+[07:38:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 69a880b2-0621-40f7-8bde-975d2d5aa218 owned by null
+[07:38:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID fb71b5d0-fcc4-423e-8bf1-17c78054c7c3 owned by null
+[07:39:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID adc18b8a-6811-4533-91d7-56571d635cba owned by null
+[07:39:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID b866dbb0-ac26-40aa-926a-89f0334d996d owned by null
+[07:39:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID e7e4c8f4-2121-4d21-b2f1-21164ab16ae1 owned by null
+[07:39:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 0ecbec52-8dae-43ff-af5f-0c70cc3794c1 owned by null
+[07:39:36] [Netty Epoll Server IO #4/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken pipe
+	at io.netty.channel.unix.FileDescriptor.writeAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[07:39:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC lost connection: Disconnected
+[07:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC left the game
+[07:40:13] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[07:40:13] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 65 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2860,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[07:40:13] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[07:40:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:40:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: JoGaRC[/127.254.131.130:54643] logged in with entity id 27192 at (-2693.2457118473135, 89.08887303670454, 361.73141753240293)
+[07:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC joined the game
+[07:40:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[07:40:24] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for JoGaRC
+[07:40:24] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for JoGaRC
+[07:40:24] [Server thread/INFO] [ebwizardry]: Synchronising config settings for JoGaRC
+[07:40:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[07:40:24] [Server thread/INFO] [Waila]: Player EntityPlayerMP['JoGaRC'/27192, l='world', x=-2693.25, y=89.09, z=361.73] connected. Sending ping
+[07:40:24] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for JoGaRC...
+[07:40:24] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to JoGaRC
+[07:40:24] [Server thread/WARN] [sexmod]: got a duped Vekda with id 'c1cfe672-3029-4981-99c1-f68f8c9181fc'. Deleted her
+[07:40:24] [Server thread/WARN] [sexmod]: got a duped Nev with id '7963130a-dcac-4bea-8e03-77d6e1364ac1'. Deleted her
+[07:40:24] [Server thread/WARN] [sexmod]: got a duped Vum with id '69a880b2-0621-40f7-8bde-975d2d5aa218'. Deleted her
+[07:40:24] [Server thread/WARN] [sexmod]: got a duped Vihli with id 'fb71b5d0-fcc4-423e-8bf1-17c78054c7c3'. Deleted her
+[07:40:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sexmod:kobold but it was marked as removed already
+[07:40:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sexmod:kobold but it was marked as removed already
+[07:40:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sexmod:kobold but it was marked as removed already
+[07:40:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sexmod:kobold but it was marked as removed already
+[07:40:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID adc18b8a-6811-4533-91d7-56571d635cba owned by null
+[07:40:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID b866dbb0-ac26-40aa-926a-89f0334d996d owned by null
+[07:40:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID e7e4c8f4-2121-4d21-b2f1-21164ab16ae1 owned by null
+[07:40:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 0ecbec52-8dae-43ff-af5f-0c70cc3794c1 owned by null
+[07:41:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[07:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [My Name is Nobody]
+[07:41:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[07:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Cleared the inventory of JoGaRC, removing 425 items]
+[07:43:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID feecbeff-fe64-4b3e-90ab-d2cc2c1f9636 owned by null
+[07:43:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID e3cfa261-2dfb-4118-9c39-7a58905d764b owned by null
+[07:43:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 88b39624-03c9-4830-a863-b83141254bff owned by null
+[07:43:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 4cadf6a2-b65b-4e81-b90e-de5042b79a47 owned by null
+[07:43:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:43:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:43:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:43:31] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:43:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:43:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:43:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:43:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:44:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:44:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:44:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:44:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:44:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:44:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:44:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:44:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:45:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:45:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:45:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:45:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:47:28] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:47:28] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 64 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,conarm@1.2.5.10,forgelin@1.8.4,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[07:47:28] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [ironbackpacks] at CLIENT
+[07:47:28] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[07:47:28] [Netty Epoll Server IO #0/INFO] [FML]: Rejecting connection CLIENT: Iron Backpacks: Requires version 1.12.2-3.0.8-12 but mod is not found on client.
+[07:47:28] [Netty Epoll Server IO #0/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Iron Backpacks: Requires version 1.12.2-3.0.8-12 but mod is not found on client.
+[07:47:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Server Mod rejections:
+Iron Backpacks: Requires version 1.12.2-3.0.8-12 but mod is not found on client.
+[07:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[07:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:51:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID adc18b8a-6811-4533-91d7-56571d635cba owned by null
+[07:51:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID b866dbb0-ac26-40aa-926a-89f0334d996d owned by null
+[07:51:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID e7e4c8f4-2121-4d21-b2f1-21164ab16ae1 owned by null
+[07:51:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 0ecbec52-8dae-43ff-af5f-0c70cc3794c1 owned by null
+[07:51:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 33c4209c-3504-4cea-87f8-78eeb949827d owned by null
+[07:51:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 55757e66-4587-426e-9fcb-3cff6859ee36 owned by null
+[07:51:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 5f5cf775-893d-4d1e-a569-de89a65d69a8 owned by null
+[07:51:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 6e8e7290-0886-4745-a3e4-350d6cb4c709 owned by null
+[07:52:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID feecbeff-fe64-4b3e-90ab-d2cc2c1f9636 owned by null
+[07:52:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID e3cfa261-2dfb-4118-9c39-7a58905d764b owned by null
+[07:52:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Hikbu with UUID 88b39624-03c9-4830-a863-b83141254bff owned by null
+[07:52:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 4cadf6a2-b65b-4e81-b90e-de5042b79a47 owned by null
+[07:52:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID adc18b8a-6811-4533-91d7-56571d635cba owned by null
+[07:52:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID b866dbb0-ac26-40aa-926a-89f0334d996d owned by null
+[07:52:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID e7e4c8f4-2121-4d21-b2f1-21164ab16ae1 owned by null
+[07:52:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 0ecbec52-8dae-43ff-af5f-0c70cc3794c1 owned by null
+[07:53:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 55eb695b-6f56-4192-b79f-2a982414ed93 owned by null
+[07:53:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mahlu with UUID 4b07724d-2b95-4375-85e5-0ff3c9f7980a owned by null
+[07:53:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 5b41ad41-6c06-41cf-9119-d5e8cd9c0b63 owned by null
+[07:53:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID eb9d549c-ccb4-4abe-ab10-e288166489cf owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 7e3eec2b-93a4-4e61-a190-fc8d2682e4e2 owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID f86bd2af-17fe-431f-9827-0f5a41baf81d owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID 9f6c5e2f-f82c-4c19-8f77-cff0a697520f owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID 6a7df9d2-9e2d-432f-87c2-c70469d81464 owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 68c43480-a1a1-4cb5-9508-34707ebbf3b2 owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d17f41ae-cdd7-40dc-a01f-5e96245b133b owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 25999c75-8c0b-4808-910f-12cabf455876 owned by null
+[07:53:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahze with UUID 965513b0-268f-454f-9ffd-c523e698b4fb owned by null
+[07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 68c43480-a1a1-4cb5-9508-34707ebbf3b2 owned by null
+[07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d17f41ae-cdd7-40dc-a01f-5e96245b133b owned by null
+[07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 25999c75-8c0b-4808-910f-12cabf455876 owned by null
+[07:53:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahze with UUID 965513b0-268f-454f-9ffd-c523e698b4fb owned by null
