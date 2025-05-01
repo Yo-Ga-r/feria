@@ -745,6 +745,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "steppe": "2025-05-01 07:12:07 +0000",
       "coniferous_forest": "2025-04-29 17:00:37 +0000",
       "lush_swamp": "2025-04-29 16:58:56 +0000",
       "grove": "2025-04-29 16:59:41 +0000"
@@ -1321,6 +1322,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-05-01 07:09:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -1783,6 +1790,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 07:09:42 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/building_blocks/aerogel_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -1827,6 +1840,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "plains": "2025-05-01 07:12:16 +0000",
       "taiga": "2025-04-29 17:01:41 +0000",
       "river": "2025-04-29 17:00:49 +0000"
     },
@@ -3338,6 +3352,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-01 07:09:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
@@ -3785,6 +3805,12 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_1": "2025-05-01 07:09:42 +0000"
     },
     "done": true
   },
@@ -4325,6 +4351,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-04-29 16:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-01 07:09:42 +0000"
     },
     "done": true
   },
