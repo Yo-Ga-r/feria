@@ -4,5 +4,11 @@
     "name": "JoGaRC",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f330962e-d5b6-3b8c-bb6c-7eba3ad33fa4",
+    "name": "SSaurus",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
