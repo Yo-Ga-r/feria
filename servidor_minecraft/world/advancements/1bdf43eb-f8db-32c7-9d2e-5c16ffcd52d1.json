@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-03 06:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-03 05:57:26 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-03 05:57:26 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-03 06:04:57 +0000"
     },
     "done": true
   },
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 06:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-05-03 05:58:13 +0000"
@@ -203,15 +221,33 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2025-05-03 06:04:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 05:57:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-03 06:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 05:57:26 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-03 06:04:57 +0000"
     },
     "done": true
   },
@@ -300,9 +336,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-03 06:05:28 +0000"
+    },
+    "done": true
+  },
   "inventorypets:inventorypets/root": {
     "criteria": {
       "auto": "2025-05-03 05:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-05-03 06:05:28 +0000"
     },
     "done": true
   },
@@ -428,6 +476,18 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-05-03 06:05:28 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "amulet_channeling": "2025-05-03 06:05:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 05:57:26 +0000"
@@ -512,17 +572,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "zombie": "2025-05-03 06:01:55 +0000"
-    },
-    "done": false
-  },
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-05-03 05:57:26 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-05-03 06:01:55 +0000"
+    },
+    "done": false
   },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
@@ -545,6 +605,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-03 05:59:53 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "amulet_channeling": "2025-05-03 06:05:28 +0000"
     },
     "done": true
   },

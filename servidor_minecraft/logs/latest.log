@@ -3235,3 +3235,117 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:03:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
 [06:03:56] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Abyssal Depths, AutoRegLib, Bauble Wings, Baubles, Bibliotheca, Biomes O' Plenty, Bookworm Library, Botania, Carry On, Chisel, Construct's Armory, Corail Tombstone, Coralreef, Electroblob's Wizardry, Extra Utilities 2, Fapcraft, Future MC, Hammer Time, Ice and Fire, Inventory Pets, Iron Backpacks, Iron Chest, Iron Furnaces, LLibrary, Mantle, Medieval craft, MorePlayerModels, Mowzie's Mobs, Mowzie's Wings, MyServerIsCompatible, Pam's HarvestCraft, PortalGun, Reeves's Furniture Mod, SecurityCraft, Serene Seasons, Spartan Fire, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Tinkers' Construct, Waystones, Wings, Wolf Armor and Storage, Zoo and Wild Animals Mod: Rebuilt, geckolib3, iChunUtil]
 [06:04:05] [Netty Epoll Server IO #4/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Abyssal Depths, AutoRegLib, Bauble Wings, Baubles, Bibliotheca, Biomes O' Plenty, Bookworm Library, Botania, Carry On, Chisel, Construct's Armory, Corail Tombstone, Coralreef, Electroblob's Wizardry, Extra Utilities 2, Fapcraft, Future MC, Hammer Time, Ice and Fire, Inventory Pets, Iron Backpacks, Iron Chest, Iron Furnaces, LLibrary, Mantle, Medieval craft, MorePlayerModels, Mowzie's Mobs, Mowzie's Wings, MyServerIsCompatible, Pam's HarvestCraft, PortalGun, Reeves's Furniture Mod, SecurityCraft, Serene Seasons, Spartan Fire, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Tinkers' Construct, Waystones, Wings, Wolf Armor and Storage, Zoo and Wild Animals Mod: Rebuilt, geckolib3, iChunUtil]
+[06:04:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Disconnected
+[06:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[06:04:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge has made the advancement [Righteousness]
+[06:04:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:04:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge got revenge on Wizard
+[06:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge has made the advancement [A Curious Crystal...]
+[06:04:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:04:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:05:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:05:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge has made the advancement [A Forgotten Relic]
+[06:05:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:05:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:05:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:05:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:06:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KingOfRevenge lost connection: Disconnected
+[06:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge left the game
+[06:07:03] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[06:07:03] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[06:07:03] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[06:07:13] [Netty Epoll Server IO #7/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Abyssal Depths, AutoRegLib, Bauble Wings, Baubles, Bibliotheca, Biomes O' Plenty, Bookworm Library, Botania, Carry On, Chisel, Construct's Armory, Corail Tombstone, Coralreef, Electroblob's Wizardry, Extra Utilities 2, Fapcraft, Future MC, Hammer Time, Ice and Fire, Inventory Pets, Iron Backpacks, Iron Chest, Iron Furnaces, LLibrary, Mantle, Medieval craft, MorePlayerModels, Mowzie's Mobs, Mowzie's Wings, MyServerIsCompatible, Pam's HarvestCraft, PortalGun, Reeves's Furniture Mod, SecurityCraft, Serene Seasons, Spartan Fire, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Tinkers' Construct, Waystones, Wings, Wolf Armor and Storage, Zoo and Wild Animals Mod: Rebuilt, geckolib3, iChunUtil]
+[06:07:20] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[06:07:20] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[06:07:20] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[06:07:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:07:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:35209] logged in with entity id 50656 at (489.5579741139099, 74.0, 318.1154063442135)
+[06:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[06:07:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[06:07:25] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[06:07:25] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[06:07:25] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[06:07:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[06:07:25] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/50656, l='world', x=489.56, y=74.00, z=318.12] connected. Sending ping
+[06:07:25] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[06:07:25] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[06:07:33] [Netty Epoll Server IO #6/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:07:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _B3ng4l lost connection: Timed out
+[06:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _B3ng4l left the game
+[06:07:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:07:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:07:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:07:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:07:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:07:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID 18126f0f-4899-42dc-a39e-4c5bda88de82 owned by null
+[06:07:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:07:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:07:49] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[06:07:49] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[06:07:49] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[06:07:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 28547314-541e-411c-ba0d-b5a810b1132d owned by null
+[06:07:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID a1d20fb4-bcc9-4aa4-858a-c1dada16b037 owned by null
+[06:07:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 61b3f645-d9c1-49cb-a2cb-52f0fb31f0c9 owned by null
+[06:07:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID bcbb7017-6659-4989-bf01-4831f61926d0 owned by null
+[06:08:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 28547314-541e-411c-ba0d-b5a810b1132d owned by null
+[06:08:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID a1d20fb4-bcc9-4aa4-858a-c1dada16b037 owned by null
+[06:08:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 61b3f645-d9c1-49cb-a2cb-52f0fb31f0c9 owned by null
+[06:08:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID bcbb7017-6659-4989-bf01-4831f61926d0 owned by null
+[06:08:19] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [42, 36] in dimension 0 (overworld) while populating chunk [42, 35], causing cascading worldgen lag.
+[06:08:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:08:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _B3ng4l lost connection: Disconnected
+[06:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _B3ng4l left the game
+[06:08:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4304ms behind, skipping 86 tick(s)
+[06:08:28] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[06:08:28] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[06:08:28] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[06:08:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3077ms behind, skipping 61 tick(s)
+[06:08:58] [Netty Epoll Server IO #3/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:08:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _B3ng4l lost connection: Timed out
+[06:08:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _B3ng4l left the game
+[06:09:15] [Netty Epoll Server IO #4/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Abyssal Depths, AutoRegLib, Bauble Wings, Baubles, Bibliotheca, Biomes O' Plenty, Bookworm Library, Botania, Carry On, Chisel, Construct's Armory, Corail Tombstone, Coralreef, Electroblob's Wizardry, Extra Utilities 2, Fapcraft, Future MC, Hammer Time, Ice and Fire, Inventory Pets, Iron Backpacks, Iron Chest, Iron Furnaces, LLibrary, Mantle, Medieval craft, MorePlayerModels, Mowzie's Mobs, Mowzie's Wings, MyServerIsCompatible, Pam's HarvestCraft, PortalGun, Reeves's Furniture Mod, SecurityCraft, Serene Seasons, Spartan Fire, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Tinkers' Construct, Waystones, Wings, Wolf Armor and Storage, Zoo and Wild Animals Mod: Rebuilt, geckolib3, iChunUtil]
+[06:09:20] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[06:09:20] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 66 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,carryon@1.12.3,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[06:09:20] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[06:09:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 28547314-541e-411c-ba0d-b5a810b1132d owned by null
+[06:09:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID a1d20fb4-bcc9-4aa4-858a-c1dada16b037 owned by null
+[06:09:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 61b3f645-d9c1-49cb-a2cb-52f0fb31f0c9 owned by null
+[06:09:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID bcbb7017-6659-4989-bf01-4831f61926d0 owned by null
+[06:09:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:09:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KingOfRevenge[/127.134.195.63:43091] logged in with entity id 54191 at (-104.20164854885552, 65.0, 459.37503274831306)
+[06:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge joined the game
+[06:09:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[06:09:24] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for KingOfRevenge
+[06:09:24] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for KingOfRevenge
+[06:09:24] [Server thread/INFO] [ebwizardry]: Synchronising config settings for KingOfRevenge
+[06:09:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:09:24] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KingOfRevenge'/54191, l='world', x=-104.20, y=65.00, z=459.38] connected. Sending ping
+[06:09:24] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for KingOfRevenge...
+[06:09:24] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to KingOfRevenge
+[06:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was pricked to death
+[06:09:53] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-178, y:66, z:473] in the dimension 0
+[06:09:53] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[06:09:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[06:10:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus was blown up by SSaurus
+[06:10:08] [Server thread/INFO] [tombstone]: The last known grave of SSaurus is at location [name:Last Grave, x:579, y:83, z:418] in the dimension 0
+[06:10:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [Your First Grave]
+[06:10:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[06:10:08] [Server thread/INFO] [tombstone]: SSaurus has successfully been saved
+[06:10:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[06:10:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KingOfRevenge lost connection: Disconnected
+[06:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge left the game
+[06:10:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC lost connection: Disconnected
+[06:10:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC left the game
+[06:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[06:10:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:10:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:10:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:10:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[06:10:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[06:11:00] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:11:00] [Server thread/INFO] [FML]: Unloading dimension -9999
+[06:11:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:11:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
