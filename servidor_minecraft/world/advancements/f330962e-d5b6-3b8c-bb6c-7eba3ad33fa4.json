@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 06:30:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-05-03 06:45:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-05-03 05:33:25 +0000"
@@ -272,6 +284,12 @@
   "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-03 08:08:46 +0000"
     },
     "done": true
   },
@@ -737,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-03 07:43:31 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/misc/yellow_cape": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -752,6 +776,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "chaparral": "2025-05-03 06:09:37 +0000",
+      "coniferous_forest": "2025-05-03 06:30:33 +0000",
       "lush_swamp": "2025-05-03 05:33:25 +0000",
       "grove": "2025-05-03 05:33:49 +0000"
     },
@@ -919,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-03 06:30:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -984,6 +1015,13 @@
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2025-05-03 07:43:16 +0000",
+      "zombie": "2025-05-03 06:34:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1339,6 +1377,18 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-03 08:02:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-05-03 06:31:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -1423,6 +1473,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "peridot": "2025-05-03 08:10:36 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-03 05:33:25 +0000"
@@ -1450,6 +1506,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 06:47:53 +0000"
     },
     "done": true
   },
@@ -1663,6 +1725,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-03 08:02:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -1678,6 +1746,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-03 08:02:06 +0000"
     },
     "done": true
   },
@@ -1777,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-05-03 06:34:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -1798,6 +1878,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 06:31:00 +0000"
     },
     "done": true
   },
@@ -2155,6 +2241,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 07:49:27 +0000"
     },
     "done": true
   },
@@ -2644,6 +2736,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/magmacube": {
+    "criteria": {
+      "crafting_table": "2025-05-03 06:29:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -2667,6 +2765,16 @@
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-05-03 08:34:33 +0000",
+      "apple": "2025-05-03 06:43:07 +0000",
+      "potato": "2025-05-03 07:46:14 +0000",
+      "melon": "2025-05-03 06:39:41 +0000",
+      "rotten_flesh": "2025-05-03 06:38:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -3022,6 +3130,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-03 06:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -3187,6 +3301,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 06:30:53 +0000"
     },
     "done": true
   },
@@ -3367,6 +3487,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-05-03 06:34:44 +0000"
     },
     "done": true
   },
@@ -4072,6 +4198,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-05-03 07:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -4234,6 +4366,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 06:47:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -4381,6 +4519,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-03 07:46:56 +0000"
     },
     "done": true
   },
