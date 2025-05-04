@@ -3358,6 +3358,12 @@
     },
     "done": true
   },
+  "medieval_craft:steel_age": {
+    "criteria": {
+      "steel_age": "2025-05-04 02:50:25 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/holystone_shovel": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
@@ -4099,6 +4105,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 02:53:44 +0000"
     },
     "done": true
   },
