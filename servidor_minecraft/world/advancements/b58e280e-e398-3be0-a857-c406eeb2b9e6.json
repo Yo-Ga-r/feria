@@ -2135,6 +2135,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-05-04 03:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -2841,8 +2847,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "chaparral": "2025-05-03 07:04:10 +0000",
+      "cold_desert": "2025-05-04 03:09:11 +0000",
+      "bog": "2025-05-04 03:07:36 +0000",
       "coniferous_forest": "2025-05-03 05:39:01 +0000",
       "seasonal_forest": "2025-05-03 06:29:23 +0000",
+      "dead_forest": "2025-05-04 03:08:24 +0000",
       "lush_swamp": "2025-05-03 05:34:33 +0000",
       "grove": "2025-05-03 05:38:35 +0000"
     },
@@ -3783,6 +3792,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-04 03:05:40 +0000",
       "melon": "2025-05-03 06:23:48 +0000",
       "rotten_flesh": "2025-05-03 08:23:53 +0000"
     },

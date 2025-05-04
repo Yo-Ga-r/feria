@@ -373,6 +373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-05-04 03:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-03 05:57:26 +0000"
@@ -583,6 +589,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-05-04 03:12:59 +0000",
       "skeleton": "2025-05-03 06:36:54 +0000",
       "zombie": "2025-05-03 06:01:55 +0000",
       "witch": "2025-05-03 06:18:52 +0000",
@@ -594,6 +601,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-04 02:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-04 03:12:16 +0000"
     },
     "done": true
   },
@@ -696,6 +709,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-04 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/gold_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-05-04 03:06:39 +0000"
     },
     "done": true
   },
