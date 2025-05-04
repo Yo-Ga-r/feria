@@ -797,6 +797,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-05-04 03:23:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -2250,6 +2256,12 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_remnant": {
+    "criteria": {
+      "earth": "2025-05-04 03:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -2972,6 +2984,7 @@
       "skeleton": "2025-05-03 07:14:57 +0000",
       "husk": "2025-05-03 07:42:26 +0000",
       "zombie": "2025-05-03 07:06:16 +0000",
+      "spider": "2025-05-04 03:18:20 +0000",
       "creeper": "2025-05-03 07:18:42 +0000"
     },
     "done": false
@@ -3487,6 +3500,12 @@
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-05-04 03:23:31 +0000"
     },
     "done": true
   },
@@ -4365,6 +4384,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-05-04 03:29:01 +0000"
     },
     "done": true
   },

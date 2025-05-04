@@ -1114,3 +1114,323 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:13:27] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-618, y:70, z:500] in the dimension 0
 [03:13:27] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
 [03:13:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was shot by Dread Lich
+[03:14:14] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-564, y:65, z:514] in the dimension 0
+[03:14:14] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:14:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:14:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[03:14:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[03:14:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[03:14:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[03:14:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[03:14:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[03:14:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[03:14:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[03:15:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[03:15:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[03:15:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[03:15:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[03:16:33] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[03:16:33] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2860,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[03:16:33] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[03:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Scuttler
+[03:16:42] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-599, y:65, z:660] in the dimension 0
+[03:16:42] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:16:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:16:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: JoGaRC[/127.225.232.119:34145] logged in with entity id 36628 at (-620.6999999880791, 75.04433161739678, 610.6999999880791)
+[03:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC joined the game
+[03:16:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:16:43] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for JoGaRC
+[03:16:43] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for JoGaRC
+[03:16:43] [Server thread/INFO] [ebwizardry]: Synchronising config settings for JoGaRC
+[03:16:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[03:16:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['JoGaRC'/36628, l='world', x=-620.70, y=75.04, z=610.70] connected. Sending ping
+[03:16:43] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for JoGaRC...
+[03:16:43] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to JoGaRC
+[03:16:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was shot by Skeleton
+[03:16:48] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-624, y:69, z:623] in the dimension 0
+[03:16:48] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:16:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Beast
+[03:17:02] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-603, y:65, z:659] in the dimension 0
+[03:17:02] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:17:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:18:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> Yo tampoco
+[03:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> pipipi
+[03:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> no tendria mas sentido que un fantasma vuele de noche?
+[03:20:01] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-56, 49] in dimension 0 (overworld) while populating chunk [-55, 50], causing cascading worldgen lag.
+[03:20:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:20:01] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-57, 49] in dimension 0 (overworld) while populating chunk [-55, 50], causing cascading worldgen lag.
+[03:20:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:20:27] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:21:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[03:21:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[03:21:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[03:21:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[03:21:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[03:21:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[03:21:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[03:21:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[03:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> conrazon te raidearon any
+[03:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> andy*
+[03:21:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> aqui esta su base
+[03:21:39] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDreadThrall from class com.github.alexthe666.iceandfire.entity.EntityDreadKnight
+[03:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> ven andy
+[03:22:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[03:22:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[03:22:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[03:22:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[03:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> [name:"Dungeon aterradora", x:-863, y:64, z:754]
+[03:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> compartir
+[03:23:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[03:23:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[03:23:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[03:23:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[03:23:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[03:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> no se, pensaba romperlo
+[03:24:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[03:25:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[03:25:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[03:25:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[03:25:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[03:25:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Dust Off Your Arrows]
+[03:25:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[03:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Knight
+[03:25:46] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-848, y:64, z:758] in the dimension 0
+[03:25:46] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:25:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus has made the advancement [A Seedy Place]
+[03:25:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[03:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Knight
+[03:26:01] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-836, y:64, z:752] in the dimension 0
+[03:26:01] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:26:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Remnant
+[03:26:09] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-889, y:65, z:730] in the dimension 0
+[03:26:09] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:26:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:26:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:26:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID e14b0c63-0aab-4f66-a6d2-0a3906039cd7
+[03:26:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID f23a4412-4a47-4b60-a593-fb76f88a876e
+[03:26:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> se desperto
+[03:27:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KingOfRevenge moved too quickly! -8.006932184617767,-0.14168517272452164,-6.115539780358517
+[03:27:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4481ms behind, skipping 89 tick(s)
+[03:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Teleported KingOfRevenge to JoGaRC]
+[03:27:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[03:27:14] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-70, 58] in dimension 0 (overworld) while populating chunk [-69, 59], causing cascading worldgen lag.
+[03:27:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:27:14] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-70, 59] in dimension 0 (overworld) while populating chunk [-69, 59], causing cascading worldgen lag.
+[03:27:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Frostmaw
+[03:27:19] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-856, y:64, z:754] in the dimension 0
+[03:27:19] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:27:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:27:23] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-72, 53] in dimension 0 (overworld) while populating chunk [-71, 54], causing cascading worldgen lag.
+[03:27:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Frostmaw
+[03:27:40] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-806, y:66, z:765] in the dimension 0
+[03:27:40] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:27:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KingOfRevenge moved wrongly!
+[03:27:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Frostmaw
+[03:27:50] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-804, y:66, z:753] in the dimension 0
+[03:27:50] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:27:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Frostmaw
+[03:28:00] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-808, y:68, z:776] in the dimension 0
+[03:28:00] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:28:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:28:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[03:28:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Frostmaw
+[03:28:12] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-799, y:67, z:756] in the dimension 0
+[03:28:12] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:28:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Frostmaw
+[03:28:16] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-796, y:68, z:772] in the dimension 0
+[03:28:16] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:28:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:28:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Frostmaw is dominating KingOfRevenge
+[03:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Frostmaw
+[03:28:23] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:28:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:28:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Frostmaw is dominating JoGaRC
+[03:28:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Frostmaw
+[03:28:33] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-791, y:67, z:753] in the dimension 0
+[03:28:33] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:28:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Frostmaw
+[03:28:44] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-793, y:67, z:753] in the dimension 0
+[03:28:44] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:28:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Teleported KingOfRevenge to JoGaRC]
+[03:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC got revenge on nemesis Frostmaw
+[03:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has completed the challenge [Rude Awakening]
+[03:29:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[03:29:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge got revenge on Dread Knight
+[03:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JoGaRC> ven
+[03:29:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Disconnected
+[03:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[03:29:58] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:29:58] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[03:29:58] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[03:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Knight
+[03:30:01] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-862, y:64, z:763] in the dimension 0
+[03:30:01] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:30:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Ghoul
+[03:30:02] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-866, y:64, z:762] in the dimension 0
+[03:30:02] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:30:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:30:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:30:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:44791] logged in with entity id 85460 at (700.5807646847447, 81.0, 285.0905572931896)
+[03:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 28547314-541e-411c-ba0d-b5a810b1132d owned by null
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID a1d20fb4-bcc9-4aa4-858a-c1dada16b037 owned by null
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 61b3f645-d9c1-49cb-a2cb-52f0fb31f0c9 owned by null
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID bcbb7017-6659-4989-bf01-4831f61926d0 owned by null
+[03:30:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[03:30:03] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[03:30:03] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[03:30:03] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[03:30:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[03:30:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/85460, l='world', x=700.58, y=81.00, z=285.09] connected. Sending ping
+[03:30:03] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[03:30:03] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[03:30:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[03:30:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JoGaRC: Teleported JoGaRC to KingOfRevenge]
+[03:30:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Ghoul
+[03:30:35] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-861, y:64, z:773] in the dimension 0
+[03:30:35] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:30:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:30:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Ghoul
+[03:30:41] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-862, y:64, z:774] in the dimension 0
+[03:30:41] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:30:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Beast
+[03:30:47] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-868, y:64, z:772] in the dimension 0
+[03:30:47] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:30:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID e14b0c63-0aab-4f66-a6d2-0a3906039cd7
+[03:30:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID f23a4412-4a47-4b60-a593-fb76f88a876e
+[03:30:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:30:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SSaurus lost connection: Disconnected
+[03:30:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus left the game
+[03:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Knight
+[03:30:55] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-861, y:64, z:771] in the dimension 0
+[03:30:55] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:30:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:31:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[03:31:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Beast
+[03:31:08] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-876, y:70, z:774] in the dimension 0
+[03:31:08] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:31:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:31:10] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[03:31:11] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,astralsorcery@1.10.27,abyssaldepths@1.12.2-0.3.2,coralreef@2.0,zawa@1.12.2-2.1.3,ebwizardry@4.3.14,jei@4.16.1.1013,damageindicatorsmod@1.0,futuremc@0.2.6,hammertime@2.2.0,medieval_craft@1.14.4,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,sereneseasons@1.2.18,conarm@1.2.5.10,forgelin@1.8.4,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,additionalstructures@2.5.0,waila@1.8.26,ichunutil@7.2.2,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,mowzies_wings@1.0.0,forge@14.23.5.2859,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,botania@r1.10-364,extrautils2@1.0,roguelike@1.8.0,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,moreplayermodels@1.12.2,securitycraft@v1.9.12.1,autoreglib@1.3-32,spartanfire@0.08,FML@8.0.99.99,tombstone@4.7.5,farsight@1.6,spartanweaponry@1.6.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,reevess_furniture_mod@3.1.1,aether_legacy@1.5.4.1,bibliotheca@1.3.6-1.12.2,bookworm@1.12.2-2.5.2.1,msic@1.0,wings@1.1.6,fastleafdecay@v14,geckolib3@3.0.30
+[03:31:11] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[03:31:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Knight
+[03:31:11] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-861, y:64, z:771] in the dimension 0
+[03:31:12] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:31:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:31:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID f23a4412-4a47-4b60-a593-fb76f88a876e
+[03:31:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID e14b0c63-0aab-4f66-a6d2-0a3906039cd7
+[03:31:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:31:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SSaurus[/127.253.216.38:48099] logged in with entity id 94930 at (701.4904539407584, 81.0, 283.02574490432835)
+[03:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SSaurus joined the game
+[03:31:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SSaurus
+[03:31:16] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for SSaurus
+[03:31:16] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for SSaurus
+[03:31:16] [Server thread/INFO] [ebwizardry]: Synchronising config settings for SSaurus
+[03:31:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SSaurus
+[03:31:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SSaurus'/94930, l='world', x=701.49, y=81.00, z=283.03] connected. Sending ping
+[03:31:16] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for SSaurus...
+[03:31:16] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to SSaurus
+[03:31:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[03:31:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[03:31:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[03:31:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[03:31:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Beast
+[03:31:27] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-861, y:64, z:771] in the dimension 0
+[03:31:27] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:31:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:31:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC got revenge on Dread Beast
+[03:31:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Knight
+[03:31:53] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-869, y:70, z:770] in the dimension 0
+[03:31:54] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Beast
+[03:31:54] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-875, y:70, z:770] in the dimension 0
+[03:31:54] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:31:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:31:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:32:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID f23a4412-4a47-4b60-a593-fb76f88a876e
+[03:32:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID e14b0c63-0aab-4f66-a6d2-0a3906039cd7
+[03:32:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Beast
+[03:32:08] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-876, y:70, z:761] in the dimension 0
+[03:32:08] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Knight
+[03:32:09] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-868, y:70, z:770] in the dimension 0
+[03:32:09] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[03:32:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:32:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID 6f6ffc38-6177-4cba-bfd7-5e466070d055
+[03:32:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID 87ad09f9-15fd-4fac-91f5-050ab13e33b1
+[03:32:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID f0caef78-5400-4e1a-96bb-adcee25775f9
+[03:32:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[03:32:13] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_442]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_442]
+	at net.minecraft.entity.EntityTracker.func_85172_a(EntityTracker.java:386) ~[ol.class:?]
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187278_c(PlayerChunkMapEntry.java:176) ~[ot.class:?]
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187276_a(PlayerChunkMapEntry.java:74) ~[ot.class:?]
+	at net.minecraft.server.management.PlayerChunkMap.func_72685_d(SourceFile:288) ~[ou.class:?]
+	at net.minecraft.server.management.PlayerList.func_72358_d(PlayerList.java:383) ~[pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:584) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) ~[lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[03:32:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Beast
+[03:32:17] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-876, y:70, z:761] in the dimension 0
+[03:32:17] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[03:32:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[03:32:23] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:762) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_442]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_442]
+	at net.minecraft.entity.EntityTracker.func_85172_a(EntityTracker.java:386) ~[ol.class:?]
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187272_b(PlayerChunkMapEntry.java:162) ~[ot.class:?]
+	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:165) ~[ou.class:?]
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227) ~[oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756) ~[MinecraftServer.class:?]
+	... 4 more
+[03:32:23] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/feria/servidor_minecraft/./crash-reports/crash-2025-05-04_03.32.23-server.txt
+[03:32:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:32:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:32:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:32:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:32:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[03:32:24] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:32:24] [Server thread/INFO] [FML]: Unloading dimension -9999
+[03:32:24] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[03:32:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
