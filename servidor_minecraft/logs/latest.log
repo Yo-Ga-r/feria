@@ -1474,3 +1474,10 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:47:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
 [05:47:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
 [05:47:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[05:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC tried to swim in lava
+[05:59:19] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:729, y:10, z:344] in the dimension 0
+[05:59:19] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[05:59:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:00:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:00:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:00:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
