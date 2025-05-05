@@ -3481,8 +3481,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-05-05 05:14:23 +0000",
+      "frozen_river": "2025-05-05 05:15:28 +0000",
       "birch_forest": "2025-05-03 07:00:50 +0000",
       "plains": "2025-05-03 08:22:02 +0000",
+      "ice_mountains": "2025-05-05 05:20:45 +0000",
       "birch_forest_hills": "2025-05-03 07:02:14 +0000",
       "taiga_cold": "2025-05-05 04:29:00 +0000",
       "river": "2025-05-03 05:40:46 +0000"
