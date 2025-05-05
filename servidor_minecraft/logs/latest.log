@@ -1129,3 +1129,84 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:18:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Sky of Beginning]
 [04:18:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
 [04:18:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[04:19:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID f0caef78-5400-4e1a-96bb-adcee25775f9
+[04:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:19:41] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-858, y:65, z:773] in the dimension 0
+[04:19:41] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:19:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:19:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was turned to ice by a dragon
+[04:19:53] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-845, y:65, z:773] in the dimension 0
+[04:19:53] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:19:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:20:04] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-836, y:65, z:775] in the dimension 0
+[04:20:04] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:20:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:20:22] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-831, y:66, z:785] in the dimension 0
+[04:20:22] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:20:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:20:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ice Dragon is dominating JoGaRC
+[04:20:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:20:33] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-825, y:66, z:790] in the dimension 0
+[04:20:33] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:20:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:20:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:20:46] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-820, y:66, z:787] in the dimension 0
+[04:20:46] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:20:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:20:56] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-823, y:66, z:787] in the dimension 0
+[04:20:56] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:20:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:21:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:21:11] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-831, y:68, z:793] in the dimension 0
+[04:21:11] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:21:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[04:21:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:21:25] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-831, y:68, z:793] in the dimension 0
+[04:21:25] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:21:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[04:21:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:21:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:21:40] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-808, y:68, z:780] in the dimension 0
+[04:21:40] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:21:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[04:21:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was frozen by a dragon
+[04:21:52] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-809, y:68, z:775] in the dimension 0
+[04:21:52] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:21:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:22:04] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-814, y:66, z:774] in the dimension 0
+[04:22:04] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:22:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:22:28] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-831, y:68, z:793] in the dimension 0
+[04:22:28] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:22:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[04:22:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[04:22:40] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-827, y:66, z:795] in the dimension 0
+[04:22:40] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:22:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC got revenge on nemesis Ice Dragon
+[04:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Dragonslayer]
+[04:22:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[04:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC tried to swim in lava
+[04:23:09] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-819, y:63, z:824] in the dimension 0
+[04:23:09] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[04:23:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[04:27:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 7ca1f154-7c3e-4a05-8794-84302e50304c owned by null
+[04:27:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID 1e2f9e00-57f8-48ec-8b84-0bf971f7369f owned by null
+[04:27:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 4f9380d0-4bb0-44f7-b81c-02a2181254ad owned by null
+[04:27:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID b754edd6-eb6b-4b83-a3b1-c671f85958d5 owned by null
+[04:28:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 7ca1f154-7c3e-4a05-8794-84302e50304c owned by null
+[04:28:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID 1e2f9e00-57f8-48ec-8b84-0bf971f7369f owned by null
+[04:28:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 4f9380d0-4bb0-44f7-b81c-02a2181254ad owned by null
+[04:28:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID b754edd6-eb6b-4b83-a3b1-c671f85958d5 owned by null
+[04:28:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 7ca1f154-7c3e-4a05-8794-84302e50304c owned by null
+[04:28:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID 1e2f9e00-57f8-48ec-8b84-0bf971f7369f owned by null
+[04:28:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 4f9380d0-4bb0-44f7-b81c-02a2181254ad owned by null
+[04:28:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID b754edd6-eb6b-4b83-a3b1-c671f85958d5 owned by null
