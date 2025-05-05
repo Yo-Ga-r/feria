@@ -3588,6 +3588,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-05-05 05:28:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
