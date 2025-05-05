@@ -2590,3 +2590,348 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [06:55:33] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-687, y:74, z:-265] in the dimension 0
 [06:55:33] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
 [06:55:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[06:55:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:55:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:55:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:55:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:55:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:55:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:55:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity zawa:meerkat that already exists with UUID 2aa46e2d-e857-483f-aa05-fee7750c84d1
+[06:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:55:41] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-689, y:72, z:-267] in the dimension 0
+[06:55:41] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:55:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:55:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:55:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:55:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:55:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:55:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:55:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:55:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:55:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:55:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:55:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity zawa:meerkat that already exists with UUID 2aa46e2d-e857-483f-aa05-fee7750c84d1
+[06:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:55:48] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-689, y:72, z:-267] in the dimension 0
+[06:55:48] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:55:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:55:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:55:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:55:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:55:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:55:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:55:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity zawa:meerkat that already exists with UUID 2aa46e2d-e857-483f-aa05-fee7750c84d1
+[06:55:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:55:58] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-691, y:72, z:-268] in the dimension 0
+[06:55:58] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:55:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:55:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:56:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:56:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:56:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:56:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:56:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was turned to ice by a dragon
+[06:56:07] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-693, y:72, z:-268] in the dimension 0
+[06:56:07] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:56:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:56:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:56:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:56:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:56:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:56:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:56:14] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:56:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32d8bb2b-2740-4514-8812-20430d3d97c8 owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 2d03a5a7-5ef9-4be1-acaf-3196769dcf54 owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 507d5205-d2dd-460e-9a7a-a89704674108 owned by null
+[06:56:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:56:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:56:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:56:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:56:34] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-714, y:68, z:-259] in the dimension 0
+[06:56:34] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:56:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:56:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:56:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:56:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:56:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:56:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:56:46] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-712, y:69, z:-256] in the dimension 0
+[06:56:46] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:56:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:56:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:56:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:56:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:56:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:56:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:56:54] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-711, y:69, z:-260] in the dimension 0
+[06:56:54] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:56:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:56:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:57:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:57:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:57:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:57:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:57:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was frozen by a dragon
+[06:57:03] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-718, y:68, z:-260] in the dimension 0
+[06:57:03] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:57:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:57:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:57:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:57:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:57:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:57:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:57:12] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-720, y:68, z:-262] in the dimension 0
+[06:57:12] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:57:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:57:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:57:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:57:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:57:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:57:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:57:19] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-721, y:68, z:-260] in the dimension 0
+[06:57:19] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:57:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:57:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:57:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:57:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:57:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:57:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:57:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:57:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:57:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:57:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:57:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:57:31] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:57:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:57:32] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:57:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:57:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:57:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:57:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:57:47] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-731, y:68, z:-246] in the dimension 0
+[06:57:48] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:57:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:57:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:57:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:57:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:57:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:57:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:57:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID f0d0bb42-33e3-477f-9dba-c25a698bafb2 owned by null
+[06:57:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 39bbdcb0-5a2e-47ac-95c3-47005b61f303 owned by null
+[06:57:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID b19e1d62-a570-4f38-a2bc-6106787386ab owned by null
+[06:57:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID f47a0f50-c198-416d-968a-af19e164883c owned by null
+[06:57:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:57:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:57:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:57:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:57:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[06:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:58:07] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-729, y:68, z:-262] in the dimension 0
+[06:58:07] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:58:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC moved wrongly!
+[06:58:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:58:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:58:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:58:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:58:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:58:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:58:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Ice Dragon
+[06:58:15] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-729, y:68, z:-270] in the dimension 0
+[06:58:15] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[06:58:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[06:58:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[06:58:22] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[06:58:22] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[06:58:22] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[06:58:22] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[06:58:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID f0d0bb42-33e3-477f-9dba-c25a698bafb2 owned by null
+[06:58:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 39bbdcb0-5a2e-47ac-95c3-47005b61f303 owned by null
+[06:58:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID b19e1d62-a570-4f38-a2bc-6106787386ab owned by null
+[06:58:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID f47a0f50-c198-416d-968a-af19e164883c owned by null
+[06:58:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC got revenge on nemesis Ice Dragon
+[06:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[06:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[06:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[06:58:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[06:58:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID f0d0bb42-33e3-477f-9dba-c25a698bafb2 owned by null
+[06:58:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 39bbdcb0-5a2e-47ac-95c3-47005b61f303 owned by null
+[06:58:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID b19e1d62-a570-4f38-a2bc-6106787386ab owned by null
+[06:58:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID f47a0f50-c198-416d-968a-af19e164883c owned by null
+[06:58:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[06:58:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[06:58:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[06:58:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[06:59:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID f47a0f50-c198-416d-968a-af19e164883c owned by null
+[06:59:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 39bbdcb0-5a2e-47ac-95c3-47005b61f303 owned by null
+[06:59:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID f0d0bb42-33e3-477f-9dba-c25a698bafb2 owned by null
+[06:59:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID b19e1d62-a570-4f38-a2bc-6106787386ab owned by null
+[06:59:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 46a8df04-ac35-4cd8-8036-26b186ae7e1c owned by null
+[06:59:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID ed24abd4-3d60-4e68-9fab-ed6bfba001e1 owned by null
+[06:59:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 78cab638-68cc-40b7-a696-4e09d5a29e0c owned by null
+[06:59:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 898a26be-dfc7-43ac-82e4-3a84ac28ee80 owned by null
+[07:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge has made the advancement [Cover Me With Diamonds]
+[07:00:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[07:00:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Magic Writing]
+[07:00:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[07:01:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity zawa:meerkat that already exists with UUID 2aa46e2d-e857-483f-aa05-fee7750c84d1
+[07:01:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[07:01:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[07:01:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KingOfRevenge
+[07:03:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID f47a0f50-c198-416d-968a-af19e164883c owned by null
+[07:03:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 39bbdcb0-5a2e-47ac-95c3-47005b61f303 owned by null
+[07:03:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID f0d0bb42-33e3-477f-9dba-c25a698bafb2 owned by null
+[07:03:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID b19e1d62-a570-4f38-a2bc-6106787386ab owned by null
+[07:03:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC was slain by Dread Beast
+[07:03:23] [Server thread/INFO] [tombstone]: The last known grave of JoGaRC is at location [name:Last Grave, x:-741, y:68, z:-269] in the dimension 0
+[07:03:23] [Server thread/INFO] [tombstone]: JoGaRC has successfully been saved
+[07:03:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to JoGaRC
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID a1d20fb4-bcc9-4aa4-858a-c1dada16b037 owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 61b3f645-d9c1-49cb-a2cb-52f0fb31f0c9 owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID bcbb7017-6659-4989-bf01-4831f61926d0 owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 28547314-541e-411c-ba0d-b5a810b1132d owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[07:03:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[07:03:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[07:03:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[07:03:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[07:03:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
+[07:03:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID f47a0f50-c198-416d-968a-af19e164883c owned by null
+[07:03:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 39bbdcb0-5a2e-47ac-95c3-47005b61f303 owned by null
+[07:03:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID f0d0bb42-33e3-477f-9dba-c25a698bafb2 owned by null
+[07:03:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID b19e1d62-a570-4f38-a2bc-6106787386ab owned by null
+[07:03:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 4b037943-eea4-4e9b-aa14-c47a206ec100 owned by null
+[07:03:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 830699e4-7ade-46e9-badb-9fab3873c2b2 owned by null
+[07:03:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID 3da8e2c4-9aec-4207-aa3b-bcdab606cf45 owned by null
+[07:03:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 655db095-288a-45dd-b9e3-608987d1a803 owned by null
+[07:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KingOfRevenge was slain by Dread Scuttler
+[07:03:40] [Server thread/INFO] [tombstone]: The last known grave of KingOfRevenge is at location [name:Last Grave, x:-599, y:64, z:661] in the dimension 0
+[07:03:40] [Server thread/INFO] [tombstone]: KingOfRevenge has successfully been saved
+[07:03:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KingOfRevenge
+[07:03:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity zawa:meerkat that already exists with UUID 2aa46e2d-e857-483f-aa05-fee7750c84d1
+[07:04:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID b8cdddb8-d9d7-4559-8fc6-4d7e0ebe179c owned by null
+[07:04:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID c6d0fafd-a687-4d49-96b5-607b5b3ebc17 owned by null
+[07:04:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 05bb0a8f-5a1c-46f5-892d-ea9a31a121a8 owned by null
+[07:04:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d793470-bee5-468c-abc8-7fdfa375ded0 owned by null
+[07:04:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[07:04:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[07:04:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[07:04:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
