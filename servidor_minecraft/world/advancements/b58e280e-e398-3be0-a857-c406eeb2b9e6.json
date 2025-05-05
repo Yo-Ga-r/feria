@@ -1559,6 +1559,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/moon": {
+    "criteria": {
+      "crafting_table": "2025-05-05 07:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"

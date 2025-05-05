@@ -301,6 +301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-05 07:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 05:57:26 +0000"
@@ -482,7 +488,8 @@
       "seasonal_forest": "2025-05-05 06:42:33 +0000",
       "dead_forest": "2025-05-03 06:02:34 +0000",
       "lush_swamp": "2025-05-03 05:59:55 +0000",
-      "snowy_coniferous_forest": "2025-05-04 02:44:59 +0000"
+      "snowy_coniferous_forest": "2025-05-04 02:44:59 +0000",
+      "tundra": "2025-05-05 07:38:51 +0000"
     },
     "done": false
   },
@@ -540,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-05 07:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-03 05:58:59 +0000"
@@ -585,6 +598,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 06:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-05 07:44:50 +0000"
     },
     "done": true
   },
@@ -758,6 +777,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-05-03 05:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-05-05 07:45:00 +0000"
     },
     "done": true
   },
@@ -1179,6 +1204,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-05 06:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-05 07:44:50 +0000"
     },
     "done": true
   },
