@@ -1655,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2025-05-05 07:57:29 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/ebony_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -3913,7 +3919,8 @@
       "cooked_beef": "2025-05-04 03:05:40 +0000",
       "melon": "2025-05-03 06:23:48 +0000",
       "bread": "2025-05-05 06:38:27 +0000",
-      "rotten_flesh": "2025-05-03 08:23:53 +0000"
+      "rotten_flesh": "2025-05-03 08:23:53 +0000",
+      "cooked_chicken": "2025-05-05 08:02:33 +0000"
     },
     "done": false
   },
@@ -4706,6 +4713,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2025-05-05 07:57:29 +0000"
     },
     "done": true
   },
