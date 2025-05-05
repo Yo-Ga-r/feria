@@ -1173,6 +1173,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "taiga": "2025-05-05 06:41:38 +0000",
+      "extreme_hills": "2025-05-05 06:48:38 +0000",
       "river": "2025-05-03 05:57:26 +0000"
     },
     "done": false
