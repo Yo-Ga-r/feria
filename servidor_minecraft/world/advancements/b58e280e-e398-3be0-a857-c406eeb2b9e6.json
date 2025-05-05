@@ -1379,6 +1379,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-05-05 04:40:07 +0000"
+    },
+    "done": true
+  },
   "inventorypets:inventorypets/jukebox": {
     "criteria": {
       "crafting_table": "2025-05-03 05:43:06 +0000"
@@ -2096,6 +2102,12 @@
   "aether_legacy:recipes/combat/gravitite_gloves": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-05-05 04:40:57 +0000"
     },
     "done": true
   },
@@ -3642,6 +3654,12 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-05-05 04:41:45 +0000"
     },
     "done": true
   },

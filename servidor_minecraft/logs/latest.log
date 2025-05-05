@@ -1220,3 +1220,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:34:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
 [04:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Local Brewery]
 [04:36:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[04:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Book of Monsters]
+[04:40:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[04:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has reached the goal [Zombie Doctor]
+[04:40:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
+[04:41:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC has made the advancement [Would you Like to Know More?]
+[04:41:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for JoGaRC
