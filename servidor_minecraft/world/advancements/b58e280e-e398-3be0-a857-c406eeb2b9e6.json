@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/doublechest": {
+    "criteria": {
+      "crafting_table": "2025-05-05 07:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -2201,6 +2207,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/chicken": {
+    "criteria": {
+      "crafting_table": "2025-05-05 07:28:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/blue_dye_from_blue_milk_cap": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -3499,11 +3511,13 @@
       "frozen_river": "2025-05-05 05:15:28 +0000",
       "forest": "2025-05-05 06:06:03 +0000",
       "birch_forest": "2025-05-03 07:00:50 +0000",
+      "beaches": "2025-05-05 07:35:20 +0000",
       "forest_hills": "2025-05-05 06:05:43 +0000",
       "plains": "2025-05-03 08:22:02 +0000",
       "ice_mountains": "2025-05-05 05:20:45 +0000",
       "birch_forest_hills": "2025-05-03 07:02:14 +0000",
       "taiga_cold": "2025-05-05 04:29:00 +0000",
+      "ocean": "2025-05-05 07:35:31 +0000",
       "extreme_hills": "2025-05-05 06:50:46 +0000",
       "river": "2025-05-03 05:40:46 +0000"
     },
@@ -3542,6 +3556,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-05 07:22:30 +0000"
     },
     "done": true
   },
@@ -3883,6 +3903,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-05 07:16:26 +0000",
       "cooked_beef": "2025-05-04 03:05:40 +0000",
       "melon": "2025-05-03 06:23:48 +0000",
       "bread": "2025-05-05 06:38:27 +0000",
