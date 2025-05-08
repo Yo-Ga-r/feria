@@ -1018,6 +1018,7 @@
     "criteria": {
       "wither_skeleton": "2025-05-08 21:22:36 +0000",
       "skeleton": "2025-05-08 21:23:00 +0000",
+      "blaze": "2025-05-08 21:33:03 +0000",
       "zombie": "2025-05-08 21:22:43 +0000"
     },
     "done": false
@@ -1370,6 +1371,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-08 21:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-05-08 20:52:48 +0000"
@@ -1709,6 +1716,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_the_recipe": "2025-05-08 20:52:48 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-08 21:33:30 +0000"
     },
     "done": true
   },
