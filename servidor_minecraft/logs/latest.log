@@ -1411,3 +1411,6 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [21:10:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
 [21:10:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
 [21:10:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[21:14:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [IthamC: Given    [Chisel] * 1 to Ssaurus19540]
+[21:19:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IthamC has made the advancement [Suit Up]
+[21:19:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for IthamC
