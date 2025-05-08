@@ -1341,3 +1341,7 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [20:24:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
 [20:24:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
 [20:24:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:35:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 37d365cc-b956-4805-b4cb-f3a04e960aaa owned by null
+[20:35:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0df7c59b-d1e7-4b8a-b1a1-eeb6e26343fe owned by null
+[20:35:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 2532c3fb-5763-4eec-ad32-6313fd27140f owned by null
+[20:35:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 8f9e47d2-0beb-473d-88c7-6468da2ed51d owned by null
