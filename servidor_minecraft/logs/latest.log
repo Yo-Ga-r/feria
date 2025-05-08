@@ -1305,3 +1305,17 @@ geckolib3: Requires version 3.0.30 but mod is not found on client.
 [20:10:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
 [20:10:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
 [20:10:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:13:30] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
+[20:13:30] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:16:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ssaurus19540 has made the advancement [A Bigger Blade]
+[20:17:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
+[20:18:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JoGaRC lost connection: Disconnected
+[20:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JoGaRC left the game
+[20:18:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Ssaurus19540
