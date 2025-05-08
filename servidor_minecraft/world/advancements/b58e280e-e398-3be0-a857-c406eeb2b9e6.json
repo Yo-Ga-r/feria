@@ -1787,6 +1787,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_mind_control": "2025-05-08 21:55:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -2862,6 +2868,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-05-08 21:55:58 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/building_blocks/angelic_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
@@ -3125,6 +3137,12 @@
   "biomesoplenty:recipes/food/shroom_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_mind_control": "2025-05-08 21:55:58 +0000"
     },
     "done": true
   },
@@ -3529,6 +3547,7 @@
       "mesa": "2025-05-08 21:45:15 +0000",
       "forest_hills": "2025-05-05 06:05:43 +0000",
       "plains": "2025-05-03 08:22:02 +0000",
+      "mesa_clear_rock": "2025-05-08 21:56:28 +0000",
       "ice_mountains": "2025-05-05 05:20:45 +0000",
       "birch_forest_hills": "2025-05-03 07:02:14 +0000",
       "taiga_cold": "2025-05-05 04:29:00 +0000",
