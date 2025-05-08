@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
+    },
+    "done": true
+  },
   "inventorypets:inventorypets/root": {
     "criteria": {
       "auto": "2025-05-08 19:23:48 +0000"
@@ -23,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-08 19:47:36 +0000"
@@ -38,6 +50,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-05-08 19:49:10 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
     },
     "done": true
   },
@@ -77,6 +95,12 @@
       "has_cobblestone": "2025-05-08 19:42:15 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2025-05-08 19:54:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
@@ -126,6 +150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-05-08 19:47:36 +0000"
@@ -141,6 +171,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-08 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-05-08 19:53:08 +0000"
     },
     "done": true
   },
@@ -198,6 +234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-05-08 19:59:06 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-08 19:23:49 +0000"
@@ -240,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-08 19:42:15 +0000"
@@ -264,9 +312,21 @@
     },
     "done": true
   },
+  "medieval_craft:steel_age": {
+    "criteria": {
+      "steel_age": "2025-05-08 19:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-05-08 19:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-05-08 19:55:01 +0000"
     },
     "done": true
   },
@@ -285,6 +345,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-08 19:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
     },
     "done": true
   },
@@ -345,6 +411,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-08 19:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-08 19:55:01 +0000"
     },
     "done": true
   },
